@@ -1,0 +1,133 @@
+name: make_my_trip_flutter_ui
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+  - assets/logo.png
+  - assets/powered_by.png
+  - assets/makemytrip.png
+  - assets/mmtimage1.jpg
+  - assets/mmtimage2.jpg
+  - assets/mmtimage3.jpg
+  - assets/mmtimage4.jpg
+  - assets/mmt2.jpeg
+  - assets/ic_launcher_foreground.png
+  - assets/icons/src_assets_experiences_active.png
+  - assets/icons/src_assets_group_53.png
+  - assets/icons/src_assets_iconactivity.png
+  - assets/icons/src_assets_iconcab.png
+  - assets/icons/src_assets_iconflight.png
+  - assets/icons/src_assets_iconhotel.png
+  - assets/icons/src_assets_iconvisa.png
+  - assets/icons/src_assets_mmt_gift.png
+  - assets/icons/src_assets_wallet.png
+  - assets/icons/src_assets_zerocancellationicon.png
+  - assets/icons/src_assets_busimage.png
+  - assets/icons/src_assets_ic_preview_pdf.png
+  - assets/icons/mmt3.jpg
+  - assets/icons/icici.png
+  - assets/icons/giftmmt.webp
+  - assets/icons/holidaysmmt.webp
+  - assets/icons/trainsmmt.webp
+  - assets/icons/hdfc.png
+  - assets/icons/hot-air-balloon.png
+  - assets/icons/hotel.png
+  - assets/icons/percentage (1).png
+  - assets/icons/plane.png
+  - assets/icons/hdfclogo.webp
+  - assets/icons/ic_home_bus.webp
+  - assets/icons/icicilogo.webp
+  - assets/travel/mmt4.webp
+  - assets/travel/mmt5.jpeg
+  - assets/travel/mmt6.jpg
+  - assets/travel/mmt7.jpg
+  - assets/travel/mmt8.jpg
+  - assets/hotel/hotel2.jpg
+  - assets/hotel/hotel3.jpeg
+  - assets/hotel/hotel4.webp
+  - assets/hotel/hotel5.webp
+  - assets/mmt3.jpg
+  - assets/discover/discover1.jpeg
+  - assets/discover/discover2.jpeg
+  - assets/discover/discover3.jpeg
+  - assets/discover/discover4.jpeg
+  - assets/discover/discover5.jpeg
+  - assets/discover/discover6.png
+  - assets/navigation icons/homemmtbtm.webp
+  - assets/navigation icons/tripsmmtbtm.webp
+  - assets/navigation icons/walletmmt.webp
+  - assets/collection/collection1.jpeg
+  - assets/collection/collection2.jpeg
+  - assets/collection/collection3.jpeg
+  - assets/collection/collection4.jpeg
+  - assets/collection/collection5.jpeg
+  - assets/collection/collection6.jpeg
+  - assets/collection/collection7.jpeg
+  - assets/collection/collection8.jpeg
+  - assets/collection/collection9.jpeg
+  - assets/collection/collection10.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
